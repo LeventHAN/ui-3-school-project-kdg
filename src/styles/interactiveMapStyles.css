@@ -1,0 +1,15 @@
+#viewer {
+  width: 100vw;
+  height: 100vh;
+  background: none;
+}
+
+img.leaflet-tile {
+  height: 100vh !important;
+  width: 100vw !important;
+}
+
+.leaflet-container {
+  background-color: rgba(36, 45, 60, 0.8) !important;
+  border-radius: 1% !important;
+}
